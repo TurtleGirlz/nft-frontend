@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd57ff328f6196eed5d4e734804beb35d462932db",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xd57ff328f6196eed5d4e734804beb35d462932db",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "tkct",
+  "SYMBOL": "tkt",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tkct",
+  "SHOW_BACKGROUND": true
+}
